@@ -1,5 +1,5 @@
 .venv
 __pycache__
-*.pyc
+todoapp/todoapp/*.pyc
 todoapp/.env
 todoapp/*.sqlite3
