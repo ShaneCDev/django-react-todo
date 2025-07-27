@@ -2,4 +2,5 @@
 __pycache__
 todoapp/todoapp/*.pyc
 todoapp/.env
-todoapp/*.sqlite3
+*.sqlite3
+todoapp/db.sqlite3
